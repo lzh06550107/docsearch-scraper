@@ -21,3 +21,9 @@
 - [文档](https://docsearch.algolia.com/)
 - [文档源代码](https://github.com/algolia/docsearch/tree/next/packages/website)
 - [DocSearch UI](https://github.com/algolia/docsearch)
+
+## 类似的项目
+
+- [typesense](https://github.com/typesense)
+- [typesense-docsearch-scraper](https://github.com/typesense/typesense-docsearch-scraper)
+- [typesense-docsearch-ui](https://github.com/typesense/typesense-docsearch.js)
